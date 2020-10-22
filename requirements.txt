@@ -1,0 +1,7 @@
+flask
+flask-restful
+gunicorn
+unidecode
+nltk
+scikit-learn
+pandas
